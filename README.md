@@ -76,4 +76,4 @@ Not knowing what to do
 I'm of no power 
 Right?  
 
-Foolish little human :)
+Foolish little human ;)
