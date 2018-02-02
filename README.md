@@ -5,10 +5,7 @@ Poem written to help learning Github.
 I'm like a fire
 You light me up when u need me 
 And when I die 
-I leave marks all around
-
-I have a huge weakness
-But always recover 
+It goes dark
 
 You can't get to far from me 
 Or else you will freeze 
@@ -19,7 +16,7 @@ But don't let me die
 
 If i go down 
 You go down with me 
-And at the dark of night 
+And at the dawn of night 
 I attract all
 I'm the one who helps 
 I'm the key ressource 
@@ -45,7 +42,7 @@ Come out as a scary big bad wolf
 
 Honestly 
 I think the reason why 
-Is because I'm capable of being great
+Is because I'm capable of being exstravagent
 And others would rather I stay 
 Normal
 Average
